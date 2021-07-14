@@ -1,6 +1,7 @@
 # Temporary folders #
 #####################
 data
+.ipynb_checkpoints
 
 # Windows generated files #
 ###########################
